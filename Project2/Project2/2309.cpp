@@ -6,8 +6,8 @@ int is_A_in_arr(int A, int* arr, int size);
 void selection_sort(int* arr, int n);
 
 int main() {
-	freopen("input.txt", "r", stdin);
-	freopen("output.txt", "w", stdout);
+	//freopen("input.txt", "r", stdin);
+	//freopen("output.txt", "w", stdout);
 	
 	int arr[10];
 	int result[10];

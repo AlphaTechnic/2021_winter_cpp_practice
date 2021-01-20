@@ -17,7 +17,6 @@ int main() {
         return 0;
     }
 
-
     if (a > b) {
         swap(&a, &b);
     }
